@@ -1,0 +1,23 @@
+{
+  "name": "curso-webpack-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgavirias13/curso-webpack-react.git"
+  },
+  "author": "Juan Pablo Gaviria <jgavirias13@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgavirias13/curso-webpack-react/issues"
+  },
+  "homepage": "https://github.com/jgavirias13/curso-webpack-react#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
